@@ -1,0 +1,12 @@
+OTU ID	C	E	N
+d__Bacteria; k__norank_d__Bacteria; p__Firmicutes	0.235173357664	0.729152183988	0.523565128606
+d__Bacteria; k__norank_d__Bacteria; p__Bacteroidota	0.630398418491	0.169409323949	0.32215089503
+d__Bacteria; k__norank_d__Bacteria; p__Actinobacteriota	0.0550486618005	0.0530772071602	0.0763925095586
+d__Bacteria; k__norank_d__Bacteria; p__Patescibacteria	0.028023983316	0.0405768450933	0.0192637730275
+d__Bacteria; k__norank_d__Bacteria; p__Desulfobacterota	0.0447732012513	0.00646470571197	0.0240014193025
+d__Bacteria; k__norank_d__Bacteria; p__Proteobacteria	0.00119482099409	0.000289653574325	0.0185631734446
+d__Bacteria; k__norank_d__Bacteria; p__Campilobacterota	0.000477928397636	0.000557583130576	0.0115680396246
+d__Bacteria; k__norank_d__Bacteria; p__Verrucomicrobiota	0.00261774417796	0.000244395203337	0.00101016684046
+d__Bacteria; k__norank_d__Bacteria; p__Deferribacterota	0.000282412234967	7.96547329394e-05	0.00290015641293
+d__Bacteria; k__norank_d__Bacteria; p__Cyanobacteria	0.00192257559958	9.41374116557e-05	0.000371118642104
+others	8.68960722975e-05	5.4310045186e-05	0.000213619511065

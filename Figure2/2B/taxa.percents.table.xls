@@ -1,0 +1,12 @@
+OTU ID	C	E	N
+d__Bacteria; k__norank_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Muribaculaceae; g__norank_f__Muribaculaceae	0.3761948209940911	0.10381546170779747	0.17440041710114704
+d__Bacteria; k__norank_d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus	0.0719825338894682	0.4209064708608504	0.1068731172517669
+d__Bacteria; k__norank_d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus	0.027252780674313522	0.20403016741976596	0.12533853261499248
+d__Bacteria; k__norank_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella	0.18086331247827597	0.016588098134630982	0.05144247480013904
+d__Bacteria; k__norank_d__Bacteria; p__Actinobacteriota; c__Actinobacteria; o__Corynebacteriales; f__Corynebacteriaceae; g__Corynebacterium	0.037224104970455335	0.033556366585563664	0.05366013497856564
+d__Bacteria; k__norank_d__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridia_UCG-014; f__norank_o__Clostridia_UCG-014; g__norank_o__Clostridia_UCG-014	0.04033063955509211	0.02413357374580002	0.02618287278415016
+d__Bacteria; k__norank_d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Saccharimonadaceae; g__Candidatus_Saccharimonas	0.02802398331595412	0.04057684509326845	0.01926377302745916
+d__Bacteria; k__norank_d__Bacteria; p__Desulfobacterota; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae; g__norank_f__Desulfovibrionaceae	0.04105839416058394	0.004513164754953076	0.02112660757733751
+d__Bacteria; k__norank_d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Jeotgalicoccus	0.011568039624608967	0.02012187174139729	0.034752997914494266
+d__Bacteria; k__norank_d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Atopostipes	0.0040189433437608614	0.0039791159772911595	0.0496882603406326
+others	0.18148244699339589	0.1277788639786815	0.33727081160931527
