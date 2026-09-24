@@ -1,0 +1,305 @@
+taxon	mean	group	lda	pvalue
+o__Coriobacteriales.f__Atopobiaceae.g__Coriobacteriaceae_UCG-002	1.51861198421			-
+o__Enterobacterales.f__Enterobacteriaceae.g__Escherichia-Shigella	3.3678108337	N	3.05301858633	0.0153021257679
+o__Coriobacteriales.f__Eggerthellaceae.g__Enterorhabdus	4.12136350053			-
+o__Coriobacteriales.f__Eggerthellaceae.g__Parvibacter	2.71331397392			-
+o__Mycoplasmatales	1.34708153927			-
+o__Aeromonadales.f__Aeromonadaceae.g__Oceanisphaera	1.68297062918			-
+o__Bacteroidales.f__Rikenellaceae	4.65964020572	N	4.18859074591	0.000668074334711
+o__Bifidobacteriales	3.97579899738			-
+o__Eubacteriales	1.22224856577			-
+o__Sphingomonadales	0.863294682714			-
+o__Streptosporangiales.f__Nocardiopsaceae	0.0			-
+o__Bacteroidales.f__Tannerellaceae	4.0902588619	C	3.68672194763	0.0180360162872
+o__Erysipelotrichales.f__Erysipelotrichaceae.g__Dubosiella	3.11154431449			-
+o__Rhodobacterales	0.0			-
+o__Oscillospirales.f__Ruminococcaceae.g__Candidatus_Soleaferrea	2.08341408656			-
+o__Desulfovibrionales.f__Desulfovibrionaceae.g__Desulfovibrio	3.53711801503			-
+o__Monoglobales.f__Monoglobaceae	3.20434198596			-
+o__Peptococcales	2.90480128972			-
+o__Oscillospirales.f__Butyricicoccaceae.g__Butyricicoccus	2.66840131928			-
+o__Mycoplasmatales.f__Mycoplasmataceae	1.34708153927			-
+o__Micromonosporales	0.0			-
+o__Erysipelotrichales	3.81900539822	N	3.45828402003	0.0439181611675
+o__Coriobacteriales.f__Eggerthellaceae.g__norank_f__Eggerthellaceae	2.27552836098			-
+o__Bifidobacteriales.f__Bifidobacteriaceae	3.97579899738			-
+o__Lactobacillales.f__Streptococcaceae	3.1755095027	C	3.2882094641	0.001980169861
+o__Erysipelotrichales.f__Erysipelatoclostridiaceae.g__norank_f__Erysipelatoclostridiaceae	1.73336829217			-
+o__Lachnospirales.f__Lachnospiraceae.g__Roseburia	3.71074383605			-
+o__Oscillospirales.f__Eubacterium_coprostanoligenes_group	3.76762605196			-
+o__Lactobacillales.f__Aerococcaceae.g__Aerococcus	2.61208791522			-
+o__Coriobacteriales.f__Coriobacteriales_Incertae_Sedis	1.89303476682			-
+o__Lactobacillales.f__Carnobacteriaceae	4.69943832999			-
+o__Peptostreptococcales-Tissierellales.f__norank_o__Peptostreptococcales-Tissierellales.g__Tissierella	0.0			-
+o__norank_c__Clostridia	2.15714558237	C	3.8862082129	0.0209383507056
+o__Saccharimonadales.f__Saccharimonadaceae	4.61420546325	E	3.99626089769	0.0076809111924
+o__Micrococcales.f__Microbacteriaceae	0.25943205617			-
+o__Peptococcales.f__Peptococcaceae.g__norank_f__Peptococcaceae	2.85903188846			-
+o__Staphylococcales.f__Staphylococcaceae	5.35608456152			-
+o__Verrucomicrobiales.f__Akkermansiaceae	3.42866003715			-
+o__Enterobacterales.f__Morganellaceae	2.20586597187	N	3.64186623074	0.0255654375189
+o__RF39.f__norank_o__RF39.g__norank_o__RF39	3.52073261158	E	3.05967791642	0.0448570952124
+o__Oscillospirales.f__norank_o__Oscillospirales.g__Hydrogenoanaerobacterium	0.982048340176			-
+o__Burkholderiales.f__Comamonadaceae.g__Delftia	0.561495704912			-
+o__Pasteurellales.f__Pasteurellaceae.g__Rodentibacter	1.23134368763			-
+o__Bacteroidales.f__Rikenellaceae.g__Rikenellaceae_RC9_gut_group	4.34233168392			-
+o__Peptostreptococcales-Tissierellales.f__Anaerovoracaceae.g__Eubacterium_nodatum_group	2.46880695734			-
+o__Bacteroidales.f__Rikenellaceae.g__Alistipes	4.2560736916	N	3.8939363625	9.99656670244e-05
+o__Thermoactinomycetales.f__Thermoactinomycetaceae.g__norank_f__Thermoactinomycetaceae	0.264203158227			-
+o__Rhizobiales.f__Beijerinckiaceae	0.259588356432			-
+o__Sphingomonadales.f__Sphingomonadaceae.g__Sphingomonas	0.863294682714			-
+o__Gastranaerophilales.f__norank_o__Gastranaerophilales.g__norank_o__Gastranaerophilales	3.2949220893	C	3.27458253568	0.00264116357124
+o__norank_c__Clostridia.f__norank_c__Clostridia	1.64928316466			-
+o__Clostridiales.f__Clostridiaceae.g__Candidatus_Arthromitus	2.72558803573			-
+o__Xanthomonadales	0.961283379793			-
+o__Peptostreptococcales-Tissierellales.f__Peptostreptococcaceae.g__Romboutsia	1.6057094861			-
+o__Peptostreptococcales-Tissierellales.f__Anaerovoracaceae.g__Anaerovorax	2.22180217336			-
+o__Lachnospirales.f__Lachnospiraceae.g__Lachnospiraceae_NK4A136_group	4.49917495013			-
+o__Xanthomonadales.f__Xanthomonadaceae.g__Lysobacter	0.0			-
+o__Lachnospirales.f__Lachnospiraceae.g__norank_f__Lachnospiraceae	4.02755559189			-
+o__Micrococcales.f__Brevibacteriaceae	0.962453326055			-
+o__Oscillospirales.f__UCG-010.g__norank_f__UCG-010	3.47087719279			-
+o__Bacteroidales	5.80539090383	C	5.39392075107	0.00041947957318
+o__Oscillospirales.f__Ruminococcaceae.g__Anaerofilum	0.590303521782			-
+o__Micrococcales	3.4563287238	N	3.13806188033	0.0498879654055
+o__RF39.f__norank_o__RF39	3.52073261158	E	3.04297939387	0.0448570952124
+o__Corynebacteriales	4.73759244069			-
+o__Oscillospirales.f__Ruminococcaceae.g__norank_f__Ruminococcaceae	3.51785092615			-
+o__Coriobacteriales	4.15338335178			-
+o__Burkholderiales.f__Comamonadaceae.g__norank_f__Comamonadaceae	0.0			-
+o__Lachnospirales.f__Lachnospiraceae.g__Acetitomaculum	1.24981571128			-
+o__Peptostreptococcales-Tissierellales	3.18006044023			-
+o__Lachnospirales.f__Lachnospiraceae.g__Lachnospiraceae_UCG-006	3.62617238367			-
+o__Burkholderiales.f__Comamonadaceae	0.862335920833			-
+o__Rhizobiales.f__Rhizobiaceae	0.271795608501			-
+o__Lachnospirales.f__Lachnospiraceae.g__Lachnospiraceae_UCG-001	3.36267535771			-
+o__Verrucomicrobiales.f__Akkermansiaceae.g__Akkermansia	3.42866003715			-
+o__Lachnospirales.f__Lachnospiraceae.g__Lachnospiraceae_NK4B4_group	2.69047031192			-
+o__Oscillospirales.f__Ruminococcaceae.g__Harryflintia	2.41745175397	N	3.17557925037	0.0165985282531
+o__Micrococcales.f__Microbacteriaceae.g__Microterricola	0.25943205617			-
+o__Christensenellales.f__Christensenellaceae.g__Christensenella	1.52676126914			-
+o__Corynebacteriales.f__Dietziaceae	0.0			-
+o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides	4.30831736852			-
+o__Peptostreptococcales-Tissierellales.f__Peptostreptococcaceae	1.6057094861			-
+o__Corynebacteriales.f__Corynebacteriaceae.g__Corynebacterium	4.73759244069			-
+o__Erysipelotrichales.f__Erysipelatoclostridiaceae.g__Erysipelatoclostridium	1.98907592738			-
+o__Micrococcales.f__Dermabacteraceae.g__Brachybacterium	0.743359152974			-
+o__Burkholderiales	2.48180404662			-
+o__Coriobacteriales.f__Eggerthellaceae	4.15079756836			-
+o__norank_c__Clostridia.f__Hungateiclostridiaceae.g__Ruminiclostridium	1.99564563374	C	4.07480130256	0.00047002452756
+o__Lactobacillales.f__Lactobacillaceae	5.62898715212	E	5.23416059802	6.4870316465e-07
+o__Clostridiales.f__Clostridiaceae	2.78510017946			-
+o__Desulfovibrionales	4.66253983278	C	4.31733082972	0.0203633799037
+o__Saccharimonadales.f__Saccharimonadaceae.g__Candidatus_Saccharimonas	4.61420546325	E	3.99625934245	0.0076809111924
+o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila	2.73259037343	N	3.01629023224	0.00123642973646
+o__Actinomycetales.f__Actinomycetaceae	0.591095529894			-
+o__Mycoplasmatales.f__Mycoplasmataceae.g__Mycoplasma	1.34708153927			-
+o__Lachnospirales.f__Lachnospiraceae.g__Acetatifactor	2.40504232979	N	3.10097657492	0.0372197866977
+o__Actinomycetales.f__Actinomycetaceae.g__Flaviflexus	0.591095529894			-
+o__Christensenellales.f__Christensenellaceae	2.73488478175	C	3.40239615839	0.00208223729309
+o__Pasteurellales	1.23134368763			-
+o__Burkholderiales.f__Neisseriaceae.g__norank_f__Neisseriaceae	1.04474969881			-
+o__Rhizobiales.f__Xanthobacteraceae	0.26264035307			-
+o__Lachnospirales.f__Lachnospiraceae.g__Eubacterium_xylanophilum_group	3.25630881354			-
+o__Erysipelotrichales.f__Erysipelotrichaceae.g__norank_f__Erysipelotrichaceae	2.77588571301			-
+o__Burkholderiales.f__Alcaligenaceae.g__Oligella	2.4216090962			-
+o__Corynebacteriales.f__Dietziaceae.g__Dietzia	0.0			-
+o__Lachnospirales.f__Lachnospiraceae.g__Lachnoclostridium	3.80244416051			-
+o__Lachnospirales.f__Lachnospiraceae.g__Tuzzerella	2.71675293776	N	2.89293431587	0.00680690107342
+o__Oscillospirales.f__Oscillospiraceae.g__Intestinimonas	3.17170139534	N	3.06345447493	0.0011757800456
+o__Burkholderiales.f__Alcaligenaceae.g__Paenalcaligenes	1.38594447845			-
+o__Deferribacterales.f__Deferribacteraceae.g__Mucispirillum	3.48654929493			-
+o__Coriobacteriales.f__Eggerthellaceae.g__DNF00809	2.50908547805	C	3.67890501844	0.00662504977363
+o__Gastranaerophilales	3.2949220893	C	3.27784564191	0.00264116357124
+o__Peptostreptococcales-Tissierellales.f__Anaerovoracaceae	3.18006044023			-
+o__Chloroplast	0.295573201843			-
+o__Coriobacteriales.f__Atopobiaceae	1.51861198421			-
+o__Erysipelotrichales.f__Erysipelotrichaceae.g__Turicibacter	3.65583202302			-
+o__Bacillales.f__Bacillaceae.g__Oceanobacillus	2.03784256556			-
+o__Thermoactinomycetales	0.264203158227			-
+o__Deferribacterales.f__Deferribacteraceae	3.48654929493			-
+o__Oscillospirales.f__Ruminococcaceae.g__Eubacterium_siraeum_group	2.69317667459	E	3.5191772388	0.0361414335676
+o__Enterobacterales.f__Enterobacteriaceae.g__Citrobacter	1.28780666781			-
+o__Flavobacteriales.f__Weeksellaceae.g__Chryseobacterium	0.0			-
+o__Oscillospirales.f__norank_o__Oscillospirales.g__norank_o__Oscillospirales	2.00214679923			-
+o__Xanthomonadales.f__Xanthomonadaceae	0.961283379793			-
+o__Chloroplast.f__norank_o__Chloroplast	0.295573201843			-
+o__Oscillospirales.f__Oscillospiraceae.g__Colidextribacter	3.67232443518	N	3.26605258552	0.0216004153558
+o__Lactobacillales.f__Aerococcaceae	3.87687681148			-
+o__Oscillospirales.f__Ruminococcaceae.g__Paludicola	2.08709853801	C	4.03527877867	0.0272824211036
+o__Lachnospirales	4.84454408693			-
+o__Gastranaerophilales.f__norank_o__Gastranaerophilales	3.2949220893	C	3.29434719449	0.00264116357124
+o__Bacteroidales.f__Muribaculaceae.g__norank_f__Muribaculaceae	5.58392826518	C	5.14721584565	0.00176890748622
+o__Erysipelotrichales.f__Erysipelotrichaceae	3.79947368831	N	3.45123832578	0.0424783525848
+o__Pseudomonadales.f__Pseudomonadaceae.g__Pseudomonas	1.04066951954			-
+o__Oscillospirales.f__Ruminococcaceae.g__Anaerotruncus	3.14180523221			-
+o__Campylobacterales.f__Helicobacteraceae	4.08926835829	N	3.76923390473	0.00879333981051
+o__Streptosporangiales	0.0			-
+o__Bacillales.f__Bacillaceae.g__Gracilibacillus	0.0			-
+o__Peptococcales.f__Peptococcaceae	2.90480128972			-
+o__Bacillales	4.58247283173			-
+o__Burkholderiales.f__Neisseriaceae	1.04474969881			-
+o__Oscillospirales.f__Eubacterium_coprostanoligenes_group.g__norank_f__Eubacterium_coprostanoligenes_group	3.76762605196			-
+o__Flavobacteriales	0.0			-
+o__Kineosporiales.f__Kineosporiaceae	0.565233153891			-
+o__Bacteroidales.f__Muribaculaceae.g__Muribaculum	3.05262703305	C	3.30835446503	0.00054989419015
+o__Eubacteriales.f__Anaerofustaceae.g__Anaerofustis	1.22224856577			-
+o__Clostridia_vadinBB60_group.f__norank_o__Clostridia_vadinBB60_group	3.49811031311	N	3.09678535102	0.041085746542
+o__Micromonosporales.f__Micromonosporaceae.g__Actinoplanes	0.0			-
+o__Corynebacteriales.f__Nocardiaceae.g__Gordonia	0.0			-
+o__Sphingomonadales.f__Sphingomonadaceae	0.863294682714			-
+o__Bacteroidales.f__Muribaculaceae	5.58520424831	C	5.17370223709	0.00176890748622
+o__Rhizobiales.f__Beijerinckiaceae.g__Methylobacterium-Methylorubrum	0.259588356432			-
+o__Micrococcales.f__Micrococcaceae	3.45408905778	N	3.13620969614	0.0464128181113
+o__Bacteroidales.f__Rs-E47_termite_group	3.48195488463	N	3.11928279092	0.026209191322
+o__Bacteroidales.f__Rs-E47_termite_group.g__norank_f__Rs-E47_termite_group	3.48195488463	N	3.11934423369	0.026209191322
+o__Bacteroidales.f__Rikenellaceae.g__Rikenella	3.75145917107	N	3.27286585168	0.0171270872835
+o__Bacillales.f__Bacillaceae.g__Bacillus	1.90259836847			-
+o__Peptostreptococcales-Tissierellales.f__Anaerovoracaceae.g__Family_XIII_AD3011_group	2.52258381638	C	3.64954103986	0.0204927303525
+o__Oscillospirales.f__Oscillospiraceae.g__NK4A214_group	3.13725576962	C	3.32718655687	0.00916376565199
+o__Lachnospirales.f__Lachnospiraceae	4.84454408693			-
+o__Thermoactinomycetales.f__Thermoactinomycetaceae.g__Thermoactinomyces	0.0			-
+o__Erysipelotrichales.f__Erysipelotrichaceae.g__Faecalibaculum	0.0			-
+o__Lactobacillales.f__Carnobacteriaceae.g__Lacticigenium	0.0			-
+o__Lachnospirales.f__Lachnospiraceae.g__Dorea	1.04364905047			-
+o__Bacteroidales.f__Marinifilaceae	4.1511261038			-
+o__Bacteroidales.f__Bacteroidaceae	4.30831736852			-
+o__Oscillospirales.f__Ruminococcaceae.g__UBA1819	1.99937446886			-
+o__Oscillospirales	4.42975569346	N	3.98086595604	0.00625108643963
+o__norank_c__Clostridia.f__Hungateiclostridiaceae	1.99564563374	C	4.06526995193	0.00047002452756
+o__Lactobacillales.f__Aerococcaceae.g__Globicatella	0.582327398658			-
+o__Verrucomicrobiales	3.42866003715			-
+o__Peptostreptococcales-Tissierellales.f__norank_o__Peptostreptococcales-Tissierellales	0.0			-
+o__Desulfovibrionales.f__Desulfovibrionaceae.g__norank_f__Desulfovibrionaceae	4.62505250461	C	4.28156779962	0.00700813430725
+o__Rhizobiales.f__Xanthobacteraceae.g__Bradyrhizobium	0.26264035307			-
+o__Lachnospirales.f__Lachnospiraceae.g__A2	2.80533419257			-
+o__Micrococcales.f__Micrococcaceae.g__Yaniella	3.39253725595			-
+o__Burkholderiales.f__Comamonadaceae.g__Aquabacterium	0.271795608501			-
+o__Rhizobiales.f__Rhizobiaceae.g__Phyllobacterium	0.0			-
+o__Campylobacterales	4.08926835829	N	3.76915362808	0.00879333981051
+o__Bacillales.f__Bacillaceae.g__Amphibacillus	0.966967285541			-
+o__Monoglobales	3.20434198596			-
+o__Lachnospirales.f__Lachnospiraceae.g__Eubacterium_ventriosum_group	2.16169602919			-
+o__Acholeplasmatales.f__Acholeplasmataceae.g__Anaeroplasma	3.09473662358			-
+o__Lactobacillales.f__Streptococcaceae.g__Lactococcus	1.91853370398			-
+o__Oscillospirales.f__Ruminococcaceae.g__Negativibacillus	2.84033240843	N	2.93480927534	0.0366401507424
+o__Lactobacillales	5.63582571388	E	5.22723639615	6.53978127263e-06
+o__Bacillales.f__Planococcaceae	4.54103483952			-
+o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus	5.62898715212	E	5.23554307366	6.4870316465e-07
+o__Staphylococcales.f__Staphylococcaceae.g__Nosocomiicoccus	2.8079002442			-
+o__Enterobacterales.f__Morganellaceae.g__Proteus	2.20586597187	N	3.61832550954	0.0255654375189
+o__Kineosporiales	0.565233153891			-
+o__Lachnospirales.f__Lachnospiraceae.g__Blautia	2.90932921562			-
+o__Flavobacteriales.f__Weeksellaceae	0.0			-
+o__Caulobacterales	0.260157195679			-
+o__Oscillospirales.f__Clostridium_methylpentosum_group.g__norank_f__Clostridium_methylpentosum_group	1.47797030544	N	4.07588294345	0.00773481168462
+o__Lachnospirales.f__Lachnospiraceae.g__ASF356	3.19945717942			-
+o__Desulfovibrionales.f__Desulfovibrionaceae	4.66253983278	C	4.33014363474	0.0203633799037
+o__Lachnospirales.f__Lachnospiraceae.g__Lachnospiraceae_UCG-010	0.590303521782			-
+o__Oscillospirales.f__Ruminococcaceae	3.88158167794			-
+o__Oscillospirales.f__Oscillospiraceae.g__UCG-007	2.08634482248			-
+o__Oscillospirales.f__Oscillospiraceae.g__UCG-005	2.12125995317	N	3.63421390791	0.0372682498017
+o__Oscillospirales.f__Ruminococcaceae.g__Ruminococcus	3.18015239615	N	2.95538433754	0.00421824256311
+o__Lactobacillales.f__Carnobacteriaceae.g__Atopostipes	4.69943832999			-
+o__Lachnospirales.f__Lachnospiraceae.g__GCA-900066575	3.20316337128			-
+o__Pseudomonadales.f__Moraxellaceae.g__Acinetobacter	0.738804045892			-
+o__Lachnospirales.f__Lachnospiraceae.g__Marvinbryantia	3.2378610433			-
+o__Oscillospirales.f__Clostridium_methylpentosum_group	1.47797030544	N	4.02677922856	0.00773481168462
+o__RF39	3.52073261158	E	3.04433682444	0.0448570952124
+o__Oscillospirales.f__Ruminococcaceae.g__Fournierella	0.295573201843			-
+o__Clostridia_UCG-014.f__norank_o__Clostridia_UCG-014	4.61486969803			-
+o__Staphylococcales.f__Staphylococcaceae.g__Jeotgalicoccus	4.54871535698			-
+o__Lachnospirales.f__Lachnospiraceae.g__Ruminococcus_torques_group	3.345140259			-
+o__Aeromonadales.f__Aeromonadaceae	1.68297062918			-
+o__Clostridia_UCG-014	4.61486969803			-
+o__Rhodospirillales	1.5204683463			-
+o__Bacteroidales.f__Prevotellaceae	5.29001792625			-
+o__Actinomycetales	0.591095529894			-
+o__Clostridiales.f__Clostridiaceae.g__Clostridium_sensu_stricto_7	0.0			-
+o__Erysipelotrichales.f__Erysipelatoclostridiaceae	2.4622320971			-
+o__Clostridiales.f__Clostridiaceae.g__Clostridium_sensu_stricto_1	2.05266678094			-
+o__Micrococcales.f__Micrococcaceae.g__Enteractinococcus	2.57513304001			-
+o__norank_c__Clostridia.f__norank_c__Clostridia.g__norank_c__Clostridia	1.64928316466			-
+o__Peptococcales.f__Peptococcaceae.g__Peptococcus	1.90490847134			-
+o__Deferribacterales	3.48654929493			-
+o__Caulobacterales.f__Caulobacteraceae	0.260157195679			-
+o__Bacteroidales.f__Prevotellaceae.g__Alloprevotella	5.26409755952			-
+o__Peptostreptococcales-Tissierellales.f__Anaerovoracaceae.g__Family_XIII_UCG-001	2.22214662139			-
+o__Lachnospirales.f__Lachnospiraceae.g__Eubacterium_oxidoreducens_group	0.582327398658			-
+o__Lactobacillales.f__Aerococcaceae.g__Facklamia	3.8669416428			-
+o__Clostridiales	2.78510017946			-
+o__Lactobacillales.f__Streptococcaceae.g__Streptococcus	3.17231973095	C	3.28844254568	0.000500986389492
+o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium	3.97579899738			-
+o__Thermoactinomycetales.f__Thermoactinomycetaceae	0.264203158227			-
+o__Bacteroidales.f__Prevotellaceae.g__Prevotellaceae_NK3B31_group	2.78864292054			-
+o__Enterobacterales.f__Enterobacteriaceae	3.37140816336	N	3.03292824591	0.00694955557055
+o__Oscillospirales.f__Butyricicoccaceae.g__UCG-009	2.67988257456			-
+o__Coriobacteriales.f__Coriobacteriales_Incertae_Sedis.g__norank_f__Coriobacteriales_Incertae_Sedis	1.89303476682			-
+o__Lactobacillales.f__Enterococcaceae.g__Enterococcus	2.4147087542			-
+o__Corynebacteriales.f__Corynebacteriaceae	4.73759244069			-
+o__Corynebacteriales.f__Nocardiaceae	0.0			-
+o__Rhodobacterales.f__Rhodobacteraceae	0.0			-
+o__Rhodospirillales.f__norank_o__Rhodospirillales.g__norank_o__Rhodospirillales	1.5204683463			-
+o__Burkholderiales.f__Comamonadaceae.g__Comamonas	0.561116062459			-
+o__Kineosporiales.f__Kineosporiaceae.g__Pseudokineococcus	0.565233153891			-
+o__Chloroplast.f__norank_o__Chloroplast.g__norank_o__Chloroplast	0.295573201843			-
+o__Lactobacillales.f__Enterococcaceae	2.4147087542			-
+o__Bacillales.f__Bacillaceae	3.54153295738			-
+o__Rhodobacterales.f__Rhodobacteraceae.g__Amaricoccus	0.0			-
+o__Micromonosporales.f__Micromonosporaceae	0.0			-
+o__Bacillales.f__Bacillaceae.g__Pseudogracilibacillus	3.43934082802			-
+o__Monoglobales.f__Monoglobaceae.g__Monoglobus	3.20434198596			-
+o__Lachnospirales.f__Lachnospiraceae.g__Bacteroides_pectinophilus_group	2.40800161562			-
+o__Oscillospirales.f__Oscillospiraceae	4.21737295817	N	3.79825079824	0.0147319740373
+o__Clostridia_vadinBB60_group.f__norank_o__Clostridia_vadinBB60_group.g__norank_o__Clostridia_vadinBB60_group	3.49811031311	N	3.0968299793	0.041085746542
+o__Erysipelotrichales.f__Erysipelatoclostridiaceae.g__Candidatus_Stoquefichus	2.22235840859			-
+o__Bacteroidales.f__Marinifilaceae.g__Butyricimonas	1.88361651047	N	3.58990263867	0.00676759002382
+o__Staphylococcales	5.35608456152			-
+o__Xanthomonadales.f__Xanthomonadaceae.g__Stenotrophomonas	0.961283379793			-
+o__Christensenellales.f__Christensenellaceae.g__norank_f__Christensenellaceae	2.58905888247	C	3.54343553955	0.0085188637245
+o__Pseudomonadales.f__Moraxellaceae.g__Psychrobacter	4.20410341735	N	3.93125913018	0.0103825352706
+o__Peptostreptococcales-Tissierellales.f__Anaerovoracaceae.g__Eubacterium_brachy_group	2.82584501382			-
+o__Caulobacterales.f__Caulobacteraceae.g__Brevundimonas	0.260157195679			-
+o__Enterobacterales	3.40010376408	N	3.06042342181	0.000381113451218
+o__Pasteurellales.f__Pasteurellaceae	1.23134368763			-
+o__Acholeplasmatales	3.09473662358			-
+o__Micrococcales.f__Dermabacteraceae	0.743359152974			-
+o__Eubacteriales.f__Anaerofustaceae	1.22224856577			-
+o__Burkholderiales.f__Alcaligenaceae	2.45987789221			-
+o__Saccharimonadales	4.61420546325	E	3.99627443634	0.0076809111924
+o__Lactobacillales.f__Carnobacteriaceae.g__norank_f__Carnobacteriaceae	0.0			-
+o__Clostridia_UCG-014.f__norank_o__Clostridia_UCG-014.g__norank_o__Clostridia_UCG-014	4.61486969803			-
+o__Rhizobiales	0.56676486726			-
+o__Oscillospirales.f__Oscillospiraceae.g__Papillibacter	0.270147042554			-
+o__Acholeplasmatales.f__Acholeplasmataceae	3.09473662358			-
+o__Lachnospirales.f__Lachnospiraceae.g__Eubacterium_ruminantium_group	0.897633193171			-
+o__Aeromonadales	1.68297062918			-
+o__Clostridia_vadinBB60_group	3.49811031311	N	3.09703786118	0.041085746542
+o__Bacteroidales.f__Marinifilaceae.g__Odoribacter	4.14877403391			-
+o__Lachnospirales.f__Lachnospiraceae.g__Lachnospiraceae_FCS020_group	2.35300782404			-
+o__Staphylococcales.f__Staphylococcaceae.g__Staphylococcus	5.31494389942			-
+o__Oscillospirales.f__Butyricicoccaceae	2.9752098821			-
+o__Lachnospirales.f__Lachnospiraceae.g__Acetivibrio_ethanolgignens_group	1.86845030533			-
+o__Campylobacterales.f__Helicobacteraceae.g__Helicobacter	4.08926835829	N	3.77062670758	0.00879333981051
+o__Oscillospirales.f__Oscillospiraceae.g__norank_f__Oscillospiraceae	3.88132467802			-
+o__Christensenellales	2.73488478175	C	3.40224101155	0.00208223729309
+o__Bacillales.f__Bacillaceae.g__norank_f__Bacillaceae	2.72533658819			-
+o__Pseudomonadales.f__Moraxellaceae	4.20425215145	N	3.93157718034	0.00701720634559
+o__Christensenellales.f__Christensenellaceae.g__Christensenellaceae_R-7_group	2.0837554068	C	3.68636981242	0.000430479972744
+o__Oscillospirales.f__UCG-010	3.47087719279			-
+o__Rhizobiales.f__Rhizobiaceae.g__Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	0.271795608501			-
+o__Sphingomonadales.f__Sphingomonadaceae.g__Sphingobium	0.0			-
+o__Rhodospirillales.f__norank_o__Rhodospirillales	1.5204683463			-
+o__Streptosporangiales.f__Nocardiopsaceae.g__Nocardiopsis	0.0			-
+o__Bacillales.f__Planococcaceae.g__Sporosarcina	4.54103483952			-
+o__Micrococcales.f__Brevibacteriaceae.g__Brevibacterium	0.962453326055			-
+o__Pseudomonadales	4.20425215145	N	3.93128034684	0.0195427646348
+o__Oscillospirales.f__norank_o__Oscillospirales	2.00214679923			-
+o__Burkholderiales.f__Comamonadaceae.g__Ottowia	0.0			-
+o__Lachnospirales.f__Lachnospiraceae.g__Tyzzerella	2.18362474716			-
+o__Pseudomonadales.f__Pseudomonadaceae	1.04066951954			-
+o__Lachnospirales.f__Lachnospiraceae.g__Eisenbergiella	1.35882225435			-
+o__Oscillospirales.f__Ruminococcaceae.g__Pygmaiobacter	1.33411622143			-
+o__Bacteroidales.f__Prevotellaceae.g__Prevotellaceae_UCG-001	4.14571578051			-
+o__Bacteroidales.f__Tannerellaceae.g__Parabacteroides	4.0902588619	C	3.67389773034	0.0180360162872
+o__Oscillospirales.f__Oscillospiraceae.g__Oscillibacter	3.33937734513			-
